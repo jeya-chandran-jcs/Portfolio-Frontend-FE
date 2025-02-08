@@ -14,7 +14,7 @@ export default function Resume() {
             <Col sm={12} md={12} className="d-flex justify-content-center align-items-center"> 
                 <p className='fs-3 fw-bolder font-italic' data-aos="fade-right"> Download my Resume </p>
                 <h4 className='text-primary fw-bold mx-2' data-aos="fade-right">&gt;&gt;</h4>
-                <a href="https://drive.google.com/file/d/1dpNPzFJAvP7iD46G_8J23T2EZ1UjfFKY/view?usp=sharing" target="_blank" rel="noopener noreferrer" 
+                <a href="https://drive.google.com/file/d/1VrM4svgG6lk60hW8RtCMtg_u1WOMNuvT/view?usp=sharing" target="_blank" rel="noopener noreferrer" 
                 className="icon-link" data-aos="fade-down">
                 <FaDownload size={40} data-aos="fade-right"/>
                 </a>
